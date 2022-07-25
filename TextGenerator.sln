@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextGenerator", "TextGenerator\TextGenerator.csproj", "{7E69D25F-0F4C-4A20-B977-6BA7E550B432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextGenerator.Tests", "TextGenerator.Tests\TextGenerator.Tests.csproj", "{64A7CBCB-873C-493B-8B4B-9CFE8EB0EFFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextGenerator.Cli", "TextGenerator.Cli\TextGenerator.Cli.csproj", "{8A7D1A58-3F82-4D7F-B981-60323B863C45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E69D25F-0F4C-4A20-B977-6BA7E550B432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E69D25F-0F4C-4A20-B977-6BA7E550B432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E69D25F-0F4C-4A20-B977-6BA7E550B432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E69D25F-0F4C-4A20-B977-6BA7E550B432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64A7CBCB-873C-493B-8B4B-9CFE8EB0EFFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A7CBCB-873C-493B-8B4B-9CFE8EB0EFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A7CBCB-873C-493B-8B4B-9CFE8EB0EFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A7CBCB-873C-493B-8B4B-9CFE8EB0EFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7D1A58-3F82-4D7F-B981-60323B863C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7D1A58-3F82-4D7F-B981-60323B863C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7D1A58-3F82-4D7F-B981-60323B863C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7D1A58-3F82-4D7F-B981-60323B863C45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
